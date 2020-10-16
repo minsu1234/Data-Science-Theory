@@ -1,2 +1,2 @@
-# my-data-science
+# Data Science Theory
 STATistics / MachineLearning / DeepLearning/etc...
